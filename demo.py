@@ -1,2 +1,5 @@
-a=15
-print(a)
+set1={1,2,3,4,"lal"}
+set2={4,5,6,7}
+print(set1^set2)
+
+
